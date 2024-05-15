@@ -17,6 +17,7 @@
 
 
 # Estrutura do projeto (classes utilizadas):
+  - Este projeto tem como foco demonstrar o uso da metodologia de test drive development, que consiste em criar as classes e métodos após montar o código main e rodá-lo, assim, cada erro pode indicar uma classe ou método a ser criado. Essa metodologia visa evitar classes e métodos desnecessários.
   - loginScreen: classe que possui os métodos login e addUser.
   - LoginScreenTest: a classe main do projeto, cria um objeto do tipo loginScreen e realiza diversos cenários de testes com os métodos do loginScreen.
 
